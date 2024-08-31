@@ -1,0 +1,41 @@
+.about {
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto !important;
+    padding-top: 100px;
+    .about_us{
+        padding-top: 100px !important;
+        width: 63%;
+        margin: 0 auto;
+        h1{
+            font-size: 22px;
+        }
+    }
+    .about_title {
+        .about_title_line {
+            width: 70%;
+            margin: 0 auto;
+            border-top: 2px solid;
+        }
+        .about_title_description {
+            width: 50%;
+            margin: 0 auto;
+            text-align: center;
+            color: #6B6B6B;
+            h2 {
+                font-size: 20px;
+            }
+            p {
+                color: #6B6B6B;
+                font-size: 15px;
+            }
+        }
+        width: 90%;
+        margin: 0 auto;
+        h1 {
+            font-size: 30px;
+            text-align: center;
+            color: #6B6B6B;
+        }
+    }
+}
